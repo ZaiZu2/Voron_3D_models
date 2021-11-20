@@ -4,4 +4,9 @@ Modified covers for Z belt with additional fixing screw, deleted pressfit in the
 
 Print with a low infill (10%) to provide the best thermal insulation.
 
-![Alt text](relative/path/to/img.jpg?raw=true "Title")
+![Alt text](./photos/1.jpg)
+![Alt text](./photos/2.jpg)
+![Alt text](./photos/3.jpg)
+![Alt text](./photos/4.jpg)
+![Alt text](./photos/5.jpg)
+![Alt text](./photos/6.jpg)
